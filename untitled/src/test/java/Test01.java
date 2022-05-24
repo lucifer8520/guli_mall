@@ -7,7 +7,8 @@ import org.junit.Test;
 public class Test01 {
     @Test
     public void test() {
-          for(i=2;i<=100;i++){
-          }
+        for (int i = 2; i <= 100; i++) {
+
+        }
     }
 }
